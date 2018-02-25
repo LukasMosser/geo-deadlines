@@ -29,10 +29,14 @@
 				<br>
 				<hr class="style1">
 			</div>
-            <div class="row" align="center">
+            <div class="row">
+				<div align="center">
+				{{ site.title }} 
+				</div>
                 <div class="col-xs-12 col-sm-8">
                   <h1>
-                    {{ site.title }} <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ site.description }}{% if site.twitter_hashtag %} #{{ site.twitter_hashtag }}{% endif %}" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ site.description }}{% if site.twitter_hashtag %} #{{ site.twitter_hashtag }}{% endif %}" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    <iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
                   </h1>
                 </div>
                 <div class="meta col-xs-12">
