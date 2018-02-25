@@ -5,6 +5,11 @@ body {
   /* color: #333; */
 }
 
+hr.style1{
+	border-top: 1px solid #8c8b8b;
+}
+
+
 body *::selection {
   background: #e74c3c;
   color: #fff;
@@ -28,6 +33,7 @@ h1 {
   margin: 0 0 10px;
   font-size: 30px;
   line-height: 35px;
+  text-align: center;
 }
 
 h2 {
