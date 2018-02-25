@@ -1,0 +1,14 @@
+---
+- name: Machine Learning
+  sub: ML
+- name: Computer Vision
+  sub: CV
+- name: Natural Language Processing
+  sub: NLP
+- name: Robotics
+  sub: RO
+- name: Speech/SigProc
+  sub: SP
+- name: Graphics
+  sub: GR
+
