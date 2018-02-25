@@ -1,15 +1,15 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Geo Conference Deadlines # (Maintained by @LukasMosser, Original by @abshkdz)
+# email: lukas.mosser@gmail.com
+description: Countdowns to top geoscience & engineering conference deadlines
+author: Lukas Mosser (Original by Abhishek Das)
 
-domain: "aideadlin.es"
+domain: "geodeadlin.es"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+twitter_username: porestar
+twitter_hashtag: geoscience
+github_username: lukasmosser
+github_repo: geo-deadlines
 
 markdown: kramdown
-ga_id: UA-36274081-2
+ga_id: UA-114722448-1
