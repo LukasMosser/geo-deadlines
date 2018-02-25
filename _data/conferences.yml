@@ -1,12 +1,21 @@
 ---
 
-- name: ICGEG
+- name: International Conference on Geosciences and Environmental Geology
   year: 2019
   id: icgeg19
-  link: http://www.learningtheory.org/colt2018/
+  link: https://waset.org/conference/2019/06/london/ICGEG
   deadline: "2018-08-18 00:00:00"
   timezone: GMT
   date: June 28-29, 2019
   place: London, United Kingdom
   sub: GSCI
 
+- name: Near Surface Geoscience Conference & Exhibition 2018 
+  year: 2018
+  id: surfacegeo18
+  link: https://events.eage.org/en/2018/24th-european-meeting-of-environmental-and-engineering-geophysics?eventid=1560&Opendivs=s3
+  deadline: "2018-04-15 23:59:59"
+  timezone: GMT+2
+  date: June 9-13, 2018
+  place: Porto, Portugal
+  sub: GSCI
