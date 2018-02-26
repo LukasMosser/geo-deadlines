@@ -119,3 +119,13 @@
   date: December 11-15, 2018
   place: New Orleans, Louisiana, USA
   sub: GEOP
+  
+- name: EGU General Assembly 2018    
+  year: 2018
+  id: eguassembly18
+  link: https://www.egu2018.eu/
+  deadline: "2018-01-10 12:59:59"
+  timezone: CET/GMT+1
+  date: April 8-11, 2018
+  place: Vienna, Austria
+  sub: GSCI
