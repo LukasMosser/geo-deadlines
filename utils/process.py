@@ -106,7 +106,7 @@ with open("../_data/conferences.yml", 'r') as stream:
         print("\n\n")     
         
         with open('sorted_data.yml', 'w') as outfile:
-            for line in ordered_dump(conf+tba, Dumper=yaml.SafeDumper, default_flow_style=False, explicit_start=True).splitlines():
+            for line in ordered_dump(conf+tba, Dumper=yaml.SafeDumper, default_flow_style=False, explicit_start=True).replace('\'', '"').splitlines():
                 outfile.write('\n')
                 outfile.write(line.replace('- name:', '\n- name:'))
     except yaml.YAMLError as exc:
@@ -135,7 +135,7 @@ with open('sorted_data.yml', 'r') as stream:
         for q in clean_conf:
             print(q["deadline"]," - ",q["name"])
         with open('cleaned_data.yml', 'w') as outfile:
-            for line in ordered_dump(clean_conf, Dumper=yaml.SafeDumper, default_flow_style=False, explicit_start=True).splitlines():
+            for line in ordered_dump(clean_conf, Dumper=yaml.SafeDumper, default_flow_style=False, explicit_start=True).replace('\'', '"').splitlines():
                 outfile.write('\n')
                 outfile.write(line.replace('- name:', '\n- name:'))
     except yaml.YAMLError as exc:
