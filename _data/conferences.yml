@@ -129,3 +129,23 @@
   date: April 8-11, 2018
   place: Vienna, Austria
   sub: GSCI
+  
+- name: 81st EAGE Conference and Exhibition 2019
+  year: 2019
+  id: eagece19
+  link: https://events.eage.org/2019/EAGE%20Annual%202019
+  deadline: "2019-01-15 23:59:59"
+  timezone: CET/GMT+1
+  date: June 3-6, 2019
+  place: London, UK
+  sub: GSCI
+
+- name: EAGE Workshop on 4D Seismic and Reservoir Monitoring
+  year: 2018
+  id: eage4d18
+  link: https://events.eage.org/en/2018/EAGE%20Workshop%20on%204D%20Seismic%20and%20Reservoir%20Monitoring
+  deadline: "2018-05-10 23:59:59"
+  timezone: CET/GMT+1
+  date: November 18-20, 2018
+  place: Abu Dabhi, UAE
+  sub: GEOP
