@@ -107,6 +107,15 @@
   deadline: "2018-04-01 16:59:59"
   timezone: CDT/GMT-6
   date: October 14-19, 2018
-  place: Anaheim, California
+  place: Anaheim, California, USA
   sub: GEOP
   
+- name: AGU Fall Meeting 2018    
+  year: 2018
+  id: agufallmtg18
+  link: https://fallmeeting.agu.org/2017/
+  deadline: "2018-08-01 23:59:59"
+  timezone: CDT/GMT-6
+  date: December 11-15, 2018
+  place: New Orleans, Louisiana, USA
+  sub: GEOP
