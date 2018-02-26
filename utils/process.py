@@ -44,10 +44,12 @@ def ordered_dump(data, stream=None, Dumper=yaml.Dumper, **kwds):
     OrderedDumper.add_representer(OrderedDict, _dict_representer)
     return yaml.dump(data, stream, OrderedDumper, **kwds)
 
-right_now = datetime.datetime.now().replace(microsecond=0).strftime(dateformat)
-
 dateformat = '%Y-%m-%d %H:%M:%S'
 tba_words = ["tba","tbd"]
+
+right_now = datetime.datetime.now().replace(microsecond=0).strftime(dateformat)
+
+
 
 def query_yes_no(question, default="no"):
     """Ask a yes/no question via input() and return their answer.
