@@ -88,7 +88,7 @@
   timezone: Etc/GMT
   date: November 4-7, 2018
   place: Cape Town, South Africa
-  sub: GEO
+  sub: GEOL
   
 - name: Seismic Characterisation of Carbonate Platforms and Reservoirs    
   year: 2018
@@ -98,4 +98,5 @@
   timezone: Etc/GMT
   date: November 10-11, 2018
   place: London, United Kingdom
-  sub: GSCI
+  sub: GEOP
+  
