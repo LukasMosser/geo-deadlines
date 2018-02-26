@@ -41,6 +41,16 @@
   place: Muscat, Oman
   sub: PE
 
+- name: Geologists Association Student Symposium 2018 (GASS)
+  year: 2018
+  id: gass18
+  link: https://geologistsassociation.org.uk/gass.html
+  deadline: "2018-03-31 23:59:59"
+  timezone: Etc/GMT
+  date: May 25, 2018
+  place: London, United Kingdom
+  sub: GEO
+
 - name: AAPG ICE 2018
   year: 2018
   id: aapgice18

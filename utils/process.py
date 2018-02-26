@@ -143,7 +143,11 @@ with open('sorted_data.yml', 'r') as stream:
         clean_conf = []
         for q in conf:
             dates,year=q["date"].split(",")
-            start_date = dates.strip().split(" ")[0].strip()+" "+dates.split("-")[1].strip()+" "+year.strip()
+            try:
+                start_date = dates.strip().split(" ")[0].strip()+" "+dates.split("-")[1].strip()+" "+year.strip()
+            except IndexError:
+                month,day=dates.strip().split(" ")
+                start_date = month.strip()+" "+day.strip()+" "+year.strip()
             try:
                 datetime.datetime.strptime(start_date, "%B %d %Y").strftime(dateformat)
             except ValueError:
