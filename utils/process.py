@@ -126,6 +126,10 @@ with open('sorted_data.yml', 'r') as stream:
         for q in conf:
             dates,year=q["date"].split(",")
             start_date = dates.strip().split(" ")[0].strip()+" "+dates.split("-")[1].strip()+" "+year.strip()
+			try:
+                datetime.datetime.strptime(start_date, "%B %d %Y").strftime(dateformat)
+            except ValueError:
+                start_date = dates.split("-")[1].strip()+" "+year.strip()
             if datetime.datetime.strptime(start_date, "%B %d %Y").strftime(dateformat) >= right_now:
                 clean_conf.append(q)
             else:
