@@ -1,151 +1,152 @@
+
 ---
 
-- name: International Conference on Geosciences and Environmental Geology
-  year: 2019
-  id: icgeg19
-  link: https://waset.org/conference/2019/06/london/ICGEG
-  deadline: "2018-08-18 00:00:00"
-  timezone: Etc/GMT+0
-  date: June 28-29, 2019
-  place: London, United Kingdom
-  sub: GSCI
-
-- name: Near Surface Geoscience Conference & Exhibition 2018 
-  year: 2018
-  id: surfacegeo18
-  link: https://events.eage.org/en/2018/24th-european-meeting-of-environmental-and-engineering-geophysics?eventid=1560&Opendivs=s3
-  deadline: "2018-04-15 23:59:59"
-  timezone: Etc/GMT+2
-  date: June 9-13, 2018
-  place: Porto, Portugal
-  sub: GSCI
-  
-- name: SPE Argentina Exploration and Production of Unconventional Resources Symposium   
-  year: 2018
-  id: uncoarg18
-  link: http://www.spe.org.ar/events/aneu2018/index.php
-  deadline: "2018-03-06 23:59:59"
-  timezone: Etc/GMT
-  date: August 14-16, 2018
-  place: Nequen, Argentina
-  sub: PE
-  
-- name: SPE Russian Petroleum Technology Conference   
-  year: 2018
-  id: sperussia18
-  link: http://www.spe.org/events/en/2018/conference/18rptc/spe-russian-petroleum-technology-conference-moscow.html
-  deadline: "2018-03-16 23:59:59"
-  timezone: Etc/GMT
-  date: October 15-17, 2018
-  place: Moscow, Russia
-  sub: PE
-  
-- name: SPE International Hydraulic Fracturing Technology Conference and Exhibition   
-  year: 2018
-  id: spefractec
-  link: http://www.spe.org/events/en/2018/conference/18ihft/hydraulic-fracturing-technology-conference-and-exhibition.html
-  deadline: "2018-03-18 23:59:59"
-  timezone: Etc/GMT
-  date: October 16-18, 2018
-  place: Muscat, Oman
-  sub: PE
-  
-- name: SPE Annual Caspian Technical Conference & Exhibition   
-  year: 2018
-  id: speacat18
-  link: http://www.spe.org/events/en/2018/conference/18ctce/spe-annual-caspian-technical-conference-and-exhibition-astana-kazakhstan.html
-  deadline: "2018-04-23 23:59:59"
-  timezone: Etc/GMT
-  date: October 24-26, 2018
-  place: Astana, Kazakhstan
-  sub: PE
-  
-- name: The Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)   
-  year: 2018
-  id: adipec18
-  link: http://www.spe.org/events/en/2018/conference/18adip/abu-dhabi-international-petroleum-exhibition-and-conference-adipec-2018.html
-  deadline: "2018-05-01 23:59:59"
-  timezone: Etc/GMT
-  date: November 12-15, 2018
-  place: Abu Dhabi, UAE
-  sub: PE
-  
-- name: International Petroleum Technology Conference (IPTC)      
-  year: 2019
-  id: speiptc19
-  link: http://www.iptcnet.org/19iptc/home/?_ga=2.51437673.1705359067.1519631386-1911300859.1519240022
-  deadline: "2018-05-31 23:59:59"
-  timezone: Etc/GMT
-  date: March 26-28, 2019
-  place: Beijing, China
-  sub: PE
-  
-- name: AAPG ICE 2018      
-  year: 2018
-  id: aapgice18
-  link: http://capetown2018.iceevent.aapg.org/technical-program/program
-  deadline: "2018-03-31 23:59:59"
-  timezone: Etc/GMT
-  date: November 4-7, 2018
-  place: Cape Town, South Africa
-  sub: GEOL
-  
-- name: Seismic Characterisation of Carbonate Platforms and Reservoirs    
+- name: Seismic Characterisation of Carbonate Platforms and Reservoirs
   year: 2018
   id: carbonateplatforms18
   link: https://www.geolsoc.org.uk/carbonateplatforms18
-  deadline: "2018-03-02 23:59:59"
+  deadline: '2018-03-02 23:59:59'
   timezone: Etc/GMT
   date: November 10-11, 2018
   place: London, United Kingdom
   sub: GEOP
 
-- name: SEG Annual Meeting 2018    
+- name: SPE Argentina Exploration and Production of Unconventional Resources Symposium
+  year: 2018
+  id: uncoarg18
+  link: http://www.spe.org.ar/events/aneu2018/index.php
+  deadline: '2018-03-06 23:59:59'
+  timezone: Etc/GMT
+  date: August 14-16, 2018
+  place: Nequen, Argentina
+  sub: PE
+
+- name: SPE Russian Petroleum Technology Conference
+  year: 2018
+  id: sperussia18
+  link: http://www.spe.org/events/en/2018/conference/18rptc/spe-russian-petroleum-technology-conference-moscow.html
+  deadline: '2018-03-16 23:59:59'
+  timezone: Etc/GMT
+  date: October 15-17, 2018
+  place: Moscow, Russia
+  sub: PE
+
+- name: SPE International Hydraulic Fracturing Technology Conference and Exhibition
+  year: 2018
+  id: spefractec
+  link: http://www.spe.org/events/en/2018/conference/18ihft/hydraulic-fracturing-technology-conference-and-exhibition.html
+  deadline: '2018-03-18 23:59:59'
+  timezone: Etc/GMT
+  date: October 16-18, 2018
+  place: Muscat, Oman
+  sub: PE
+
+- name: AAPG ICE 2018
+  year: 2018
+  id: aapgice18
+  link: http://capetown2018.iceevent.aapg.org/technical-program/program
+  deadline: '2018-03-31 23:59:59'
+  timezone: Etc/GMT
+  date: November 4-7, 2018
+  place: Cape Town, South Africa
+  sub: GEOL
+
+- name: SEG Annual Meeting 2018
   year: 2018
   id: segannualmtg18
   link: https://seg.org/Annual-Meeting-2018
-  deadline: "2018-04-01 16:59:59"
+  deadline: '2018-04-01 16:59:59'
   timezone: CDT/GMT-6
   date: October 14-19, 2018
   place: Anaheim, California, USA
   sub: GEOP
-  
-- name: AGU Fall Meeting 2018    
+
+- name: Near Surface Geoscience Conference & Exhibition 2018
   year: 2018
-  id: agufallmtg18
-  link: https://fallmeeting.agu.org/2017/
-  deadline: "2018-08-01 23:59:59"
-  timezone: CDT/GMT-6
-  date: December 11-15, 2018
-  place: New Orleans, Louisiana, USA
-  sub: GEOP
-  
-- name: EGU General Assembly 2018    
+  id: surfacegeo18
+  link: https://events.eage.org/en/2018/24th-european-meeting-of-environmental-and-engineering-geophysics?eventid=1560&Opendivs=s3
+  deadline: '2018-04-15 23:59:59'
+  timezone: Etc/GMT+2
+  date: June 9-13, 2018
+  place: Porto, Portugal
+  sub: GSCI
+
+- name: SPE Annual Caspian Technical Conference & Exhibition
   year: 2018
-  id: eguassembly18
-  link: https://www.egu2018.eu/
-  deadline: "2018-01-10 12:59:59"
-  timezone: CET/GMT+1
-  date: April 8-11, 2018
-  place: Vienna, Austria
-  sub: GSCI
-  
-- name: 81st EAGE Conference and Exhibition 2019
-  year: 2019
-  id: eagece19
-  link: https://events.eage.org/2019/EAGE%20Annual%202019
-  deadline: "2019-01-15 23:59:59"
-  timezone: CET/GMT+1
-  date: June 3-6, 2019
-  place: London, UK
-  sub: GSCI
+  id: speacat18
+  link: http://www.spe.org/events/en/2018/conference/18ctce/spe-annual-caspian-technical-conference-and-exhibition-astana-kazakhstan.html
+  deadline: '2018-04-23 23:59:59'
+  timezone: Etc/GMT
+  date: October 24-26, 2018
+  place: Astana, Kazakhstan
+  sub: PE
+
+- name: The Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)
+  year: 2018
+  id: adipec18
+  link: http://www.spe.org/events/en/2018/conference/18adip/abu-dhabi-international-petroleum-exhibition-and-conference-adipec-2018.html
+  deadline: '2018-05-01 23:59:59'
+  timezone: Etc/GMT
+  date: November 12-15, 2018
+  place: Abu Dhabi, UAE
+  sub: PE
 
 - name: EAGE Workshop on 4D Seismic and Reservoir Monitoring
   year: 2018
   id: eage4d18
   link: https://events.eage.org/en/2018/EAGE%20Workshop%20on%204D%20Seismic%20and%20Reservoir%20Monitoring
-  deadline: "2018-05-10 23:59:59"
+  deadline: '2018-05-10 23:59:59'
   timezone: CET/GMT+1
   date: November 18-20, 2018
   place: Abu Dabhi, UAE
   sub: GEOP
+
+- name: International Petroleum Technology Conference (IPTC)
+  year: 2019
+  id: speiptc19
+  link: http://www.iptcnet.org/19iptc/home/?_ga=2.51437673.1705359067.1519631386-1911300859.1519240022
+  deadline: '2018-05-31 23:59:59'
+  timezone: Etc/GMT
+  date: March 26-28, 2019
+  place: Beijing, China
+  sub: PE
+
+- name: AGU Fall Meeting 2018
+  year: 2018
+  id: agufallmtg18
+  link: https://fallmeeting.agu.org/2017/
+  deadline: '2018-08-01 23:59:59'
+  timezone: CDT/GMT-6
+  date: December 11-15, 2018
+  place: New Orleans, Louisiana, USA
+  sub: GEOP
+
+- name: International Conference on Geosciences and Environmental Geology
+  year: 2019
+  id: icgeg19
+  link: https://waset.org/conference/2019/06/london/ICGEG
+  deadline: '2018-08-18 00:00:00'
+  timezone: Etc/GMT+0
+  date: June 28-29, 2019
+  place: London, United Kingdom
+  sub: GSCI
+
+- name: 81st EAGE Conference and Exhibition 2019
+  year: 2019
+  id: eagece19
+  link: https://events.eage.org/2019/EAGE%20Annual%202019
+  deadline: '2019-01-15 23:59:59'
+  timezone: CET/GMT+1
+  date: June 3-6, 2019
+  place: London, UK
+  sub: GSCI
+
+- name: EGU General Assembly 2018
+  year: 2018
+  id: eguassembly18
+  link: https://www.egu2018.eu/
+  deadline: '2018-01-10 12:59:59'
+  timezone: CET/GMT+1
+  date: April 8-11, 2018
+  place: Vienna, Austria
+  sub: GSCI
