@@ -56,7 +56,7 @@
   id: segannualmtg18
   link: https://seg.org/Annual-Meeting-2018
   deadline: "2018-04-01 16:59:59"
-  timezone: CDT/GMT-6
+  timezone: Etc/GMT-6
   date: October 14-19, 2018
   place: Anaheim, California, USA
   sub: GEOP
@@ -96,7 +96,7 @@
   id: eage4d18
   link: https://events.eage.org/en/2018/EAGE%20Workshop%20on%204D%20Seismic%20and%20Reservoir%20Monitoring
   deadline: "2018-05-10 23:59:59"
-  timezone: CET/GMT+1
+  timezone: Etc/GMT+1
   date: November 18-20, 2018
   place: Abu Dabhi, UAE
   sub: GEOP
@@ -116,7 +116,7 @@
   id: agufallmtg18
   link: https://fallmeeting.agu.org/2017/
   deadline: "2018-08-01 23:59:59"
-  timezone: CDT/GMT-6
+  timezone: Etc/GMT-6
   date: December 11-15, 2018
   place: New Orleans, Louisiana, USA
   sub: GEOP
@@ -136,7 +136,7 @@
   id: eagece19
   link: https://events.eage.org/2019/EAGE%20Annual%202019
   deadline: "2019-01-15 23:59:59"
-  timezone: CET/GMT+1
+  timezone: Etc/GMT+1
   date: June 3-6, 2019
   place: London, UK
   sub: GSCI
@@ -146,7 +146,7 @@
   id: eguassembly18
   link: https://www.egu2018.eu/
   deadline: "2018-01-10 12:59:59"
-  timezone: CET/GMT+1
+  timezone: Etc/GMT+1
   date: April 8-11, 2018
   place: Vienna, Austria
   sub: GSCI
