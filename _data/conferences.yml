@@ -43,7 +43,7 @@
   - name: SPE International Hydraulic Fracturing Technology Conference and Exhibition   
   year: 2018
   id: spefractec
-  link:http://www.spe.org/events/en/2018/conference/18ihft/hydraulic-fracturing-technology-conference-and-exhibition.html
+  link: http://www.spe.org/events/en/2018/conference/18ihft/hydraulic-fracturing-technology-conference-and-exhibition.html
   deadline: "2018-03-18 23:59:59"
   timezone: Etc/GMT
   date: October 16-18, 2018
@@ -53,7 +53,7 @@
 - name: SPE Annual Caspian Technical Conference & Exhibition   
   year: 2018
   id: speacat18
-  link:http://www.spe.org/events/en/2018/conference/18ctce/spe-annual-caspian-technical-conference-and-exhibition-astana-kazakhstan.html
+  link: http://www.spe.org/events/en/2018/conference/18ctce/spe-annual-caspian-technical-conference-and-exhibition-astana-kazakhstan.html
   deadline: "2018-04-23 23:59:59"
   timezone: Etc/GMT
   date: October 24-26, 2018
@@ -63,7 +63,7 @@
 - name: The Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)   
   year: 2018
   id: adipec18
-  link:http://www.spe.org/events/en/2018/conference/18adip/abu-dhabi-international-petroleum-exhibition-and-conference-adipec-2018.html
+  link: http://www.spe.org/events/en/2018/conference/18adip/abu-dhabi-international-petroleum-exhibition-and-conference-adipec-2018.html
   deadline: "2018-05-01 23:59:59"
   timezone: Etc/GMT
   date: November 12-15, 2018
@@ -73,7 +73,7 @@
 - name: International Petroleum Technology Conference (IPTC)      
   year: 2019
   id: speiptc19
-  link:http://www.iptcnet.org/19iptc/home/?_ga=2.51437673.1705359067.1519631386-1911300859.1519240022
+  link: http://www.iptcnet.org/19iptc/home/?_ga=2.51437673.1705359067.1519631386-1911300859.1519240022
   deadline: "2018-05-31 23:59:59"
   timezone: Etc/GMT
   date: March 26-28, 2019
@@ -83,7 +83,7 @@
  - name: AAPG ICE 2018      
   year: 2018
   id: aapgice18
-  link:http://capetown2018.iceevent.aapg.org/technical-program/program
+  link: http://capetown2018.iceevent.aapg.org/technical-program/program
   deadline: "2018-03-31 23:59:59"
   timezone: Etc/GMT
   date: November 4-7, 2018
@@ -93,7 +93,7 @@
 - name: Seismic Characterisation of Carbonate Platforms and Reservoirs    
   year: 2018
   id: carbonateplatforms18
-  link:https://www.geolsoc.org.uk/carbonateplatforms18
+  link: https://www.geolsoc.org.uk/carbonateplatforms18
   deadline: "2018-03-02 23:59:59"
   timezone: Etc/GMT
   date: November 10-11, 2018
