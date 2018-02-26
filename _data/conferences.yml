@@ -20,7 +20,7 @@
   place: Porto, Portugal
   sub: GSCI
   
-  - name: SPE Argentina Exploration and Production of Unconventional Resources Symposium   
+- name: SPE Argentina Exploration and Production of Unconventional Resources Symposium   
   year: 2018
   id: uncoarg18
   link: http://www.spe.org.ar/events/aneu2018/index.php
@@ -30,7 +30,7 @@
   place: Nequen, Argentina
   sub: PE
   
-  - name: SPE Russian Petroleum Technology Conference   
+- name: SPE Russian Petroleum Technology Conference   
   year: 2018
   id: sperussia18
   link: http://www.spe.org/events/en/2018/conference/18rptc/spe-russian-petroleum-technology-conference-moscow.html
