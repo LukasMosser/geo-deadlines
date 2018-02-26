@@ -13,9 +13,10 @@
 </div>
 
 <h2 align="center">How-to Contribute</h2>
-- Create a fork of the repository to your own github account.  
-- Update `_data/conferences.yml` with the correct attributes.  
-- Send a pull request.  
+
+* Create a fork of the repository to your own github account.  
+* Update `_data/conferences.yml` with the correct attributes.  
+* Send a pull request.  
 
 If you are not able to do this, please get in touch via <a href="emailto:lukas.mosser@gmail.com">email</a> or [twitter](https://twitter.com/porestar)!  
 
