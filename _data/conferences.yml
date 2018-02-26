@@ -99,4 +99,14 @@
   date: November 10-11, 2018
   place: London, United Kingdom
   sub: GEOP
+
+- name: SEG Annual Meeting 2018    
+  year: 2018
+  id: segannualmtg18
+  link: https://seg.org/Annual-Meeting-2018
+  deadline: "2018-04-01 16:59:59"
+  timezone: CDT/GMT-6
+  date: October 14-19, 2018
+  place: Anaheim, California
+  sub: GEOP
   
