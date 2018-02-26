@@ -40,7 +40,7 @@
   place: Moscow, Russia
   sub: PE
   
-  - name: SPE International Hydraulic Fracturing Technology Conference and Exhibition   
+- name: SPE International Hydraulic Fracturing Technology Conference and Exhibition   
   year: 2018
   id: spefractec
   link: http://www.spe.org/events/en/2018/conference/18ihft/hydraulic-fracturing-technology-conference-and-exhibition.html
@@ -80,7 +80,7 @@
   place: Beijing, China
   sub: PE
   
- - name: AAPG ICE 2018      
+- name: AAPG ICE 2018      
   year: 2018
   id: aapgice18
   link: http://capetown2018.iceevent.aapg.org/technical-program/program
