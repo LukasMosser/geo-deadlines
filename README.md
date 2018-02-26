@@ -18,7 +18,7 @@
 * Update `_data/conferences.yml` with the correct attributes.  
 * Send a pull request.  
 
-If you are not able to do this, please get in touch via <a href="emailto:lukas.mosser@gmail.com">email</a> or [twitter](https://twitter.com/porestar)!  
+If you are not able to do this, please get in touch via <a href="lukas.mosser@gmail.com">email</a> or [twitter](https://twitter.com/porestar)!  
 
 <h2 align="center">Disclaimer</h2>
 This initiative is inspired by Abhishek Das for <a href="aideadlin.es">aideadlin.es</a>.  
