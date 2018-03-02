@@ -9,6 +9,16 @@
   date: June 28-29, 2019
   place: London, United Kingdom
   sub: GSCI
+  
+- name: Annual Meeting of European Association of Vertebrate Paleontologists
+  year: 2018
+  id: icgeg19
+  link: https://questionarios.fct.unl.pt/index.php/739289/lang-en
+  deadline: "2018-03-20 00:00:00"
+  timezone: Etc/GMT+0
+  date: June 26 - July 1st, 2018
+  place: Caparica, Portugal
+  sub: PAT
 
 - name: Near Surface Geoscience Conference & Exhibition 2018 
   year: 2018
