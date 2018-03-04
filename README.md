@@ -7,8 +7,9 @@
 
   <h1>Geo Deadlines</h1>
   <p>
-    A community-driven collection of upcoming deadlines for earth-science & engineering related conferences.  
-    <br>Hosted with :heart: by <a href="https://www.twitter.com/porestar">@porestar</a>
+    A community-driven collection of upcoming deadlines for earth-science & engineering related conferences.
+    <br><a href="http://geodeadlin.es">geodeadlin.es</a>
+    <br><br>Hosted with :heart: by <a href="https://www.twitter.com/porestar">@porestar</a>
   <p>
 </div>
 
