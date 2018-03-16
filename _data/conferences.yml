@@ -181,3 +181,13 @@
   date: November 10-11, 2018
   place: London, United Kingdom
   sub: GEOP
+  
+  - name: 68th Annual Convention of the Gulf Coast Association of Geological Societies
+  year: 2018
+  id: gcags18
+  link: https://gcags2018.org/
+  deadline: "2018-03-23 23:59:59"
+  timezone: Etc/GMT+6
+  date: September 30 - October 2, 2018
+  place: Shreveport, Louisiana, USA
+  sub: GSCI
