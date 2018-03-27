@@ -19,6 +19,8 @@
 * Update `_data/conferences.yml` with the correct attributes.  
 * Send a pull request.  
 
+![GIF showing how to add a conference](static/img/guide.gif?raw=true "How to add deadlines to this repository")
+
 If you are not able to do this, please get in touch via <a href="lukas.mosser@gmail.com">email</a> or [twitter](https://twitter.com/porestar)!  
 
 <h2 align="center">Disclaimer</h2>
