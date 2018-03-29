@@ -191,3 +191,13 @@
   date: September 30 - October 2, 2018
   place: Shreveport, Louisiana, USA
   sub: GSCI
+  
+  - name: GSA Annual Meeting
+  year: 2018
+  id: gsa18
+  link: http://community.geosociety.org/gsa2018/home
+  deadline: "2018-08-14 23:59:59"
+  timezone: Etc/GMT+7
+  date: November 4 - November 7, 2018
+  place: Indianapolis, Indiana, USA
+  sub: GEOL
