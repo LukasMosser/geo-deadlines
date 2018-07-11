@@ -60,12 +60,13 @@
   place: London, United Kingdom
   sub: GEOP
 
-- name: First EAGE/PESGB Workshop on Machine Learning: European Edition
+- name: First EAGE/PESGB Workshop on Machine Learning European Edition
   year: 2018
   id: peesgbmleuro
-  link: https://events.eage.org/en/2018/First%20EAGE%20PESGB%20Workshop%20on%20Machine%20Learning
+  link: https://events.eage.org/en/2018/first-eage-pesgb-workshop-on-machine-learning
   deadline: "2018-08-13 23:59:59"
   timezone: Etc/GMT+1
   date: November 29-30, 2018
   place: London, United Kingdom
   sub: GEOP
+
