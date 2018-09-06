@@ -70,3 +70,13 @@
   place: London, United Kingdom
   sub: GEOP
 
+- name: AAPG Annual Meeting and Convention 2019
+  year: 2019
+  id: aapgace19
+  link: https://ace.aapg.org/2019/
+  deadline: "2018-10-11 23:59:59"
+  timezone: Etc/GMT-6
+  date: May 19-22, 2019
+  place: San Anotonio, Texas, USA
+  sub: GEOL
+  
