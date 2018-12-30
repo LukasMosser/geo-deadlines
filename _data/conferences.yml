@@ -1,13 +1,13 @@
 
 ---
-- name: EAGE Workshop on 4D Seismic and Reservoir Monitoring
+- name: EGU 2019
   year: 2018
-  id: eage4d18
-  link: https://events.eage.org/en/2018/EAGE%20Workshop%20on%204D%20Seismic%20and%20Reservoir%20Monitoring
-  deadline: "2018-05-10 23:59:59"
+  id: eguviennad19
+  link: https://www.egu2019.eu/
+  deadline: "2019-01-10 13:00:00"
   timezone: Etc/GMT+1
-  date: November 18-20, 2018
-  place: Abu Dabhi, UAE
+  date: April 7-12, 2019
+  place: Vienna, Austria
   sub: GEOP
 
 - name: International Petroleum Technology Conference (IPTC)
@@ -20,25 +20,15 @@
   place: Beijing, China
   sub: PE
 
-- name: AGU Fall Meeting 2018
-  year: 2018
-  id: agufallmtg18
+- name: AGU Fall Meeting 2019
+  year: 2019
+  id: agufallmtg19
   link: https://fallmeeting.agu.org/2017/
   deadline: "2018-08-01 23:59:59"
   timezone: Etc/GMT-6
   date: December 11-15, 2018
   place: New Orleans, Louisiana, USA
   sub: GEOP
-
-- name: International Conference on Geosciences and Environmental Geology
-  year: 2019
-  id: icgeg19
-  link: https://waset.org/conference/2019/06/london/ICGEG
-  deadline: "2018-08-18 00:00:00"
-  timezone: Etc/GMT+0
-  date: June 28-29, 2019
-  place: London, United Kingdom
-  sub: GSCI
 
 - name: 81st EAGE Conference and Exhibition 2019
   year: 2019
@@ -49,26 +39,6 @@
   date: June 3-6, 2019
   place: London, UK
   sub: GSCI
-
-- name: Seismic Characterisation of Carbonate Platforms and Reservoirs
-  year: 2018
-  id: carbonateplatforms18
-  link: https://www.geolsoc.org.uk/carbonateplatforms18
-  deadline: "2018-03-02 23:59:59"
-  timezone: Etc/GMT
-  date: November 10-11, 2018
-  place: London, United Kingdom
-  sub: GEOP
-
-- name: First EAGE/PESGB Workshop on Machine Learning European Edition
-  year: 2018
-  id: peesgbmleuro
-  link: https://events.eage.org/en/2018/first-eage-pesgb-workshop-on-machine-learning
-  deadline: "2018-08-13 23:59:59"
-  timezone: Etc/GMT+1
-  date: November 29-30, 2018
-  place: London, United Kingdom
-  sub: GEOP
 
 - name: AAPG Annual Meeting and Convention 2019
   year: 2019
