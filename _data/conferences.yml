@@ -1,6 +1,6 @@
 
 ---
-- name: EGU 2019
+- name: EGU
   year: 2018
   id: eguviennad19
   link: https://www.egu2019.eu/
@@ -9,6 +9,27 @@
   date: April 7-12, 2019
   place: Vienna, Austria
   sub: GEOP
+
+
+- name: AGU Fall Meeting
+  year: 2019
+  id: agufallmtg19
+  link: https://fallmeeting.agu.org/2017/
+  deadline: "2019-08-01 23:59:59"
+  timezone: Etc/GMT-6
+  date: December 9-13, 2018
+  place: San Francisco, California, USA
+  sub: GEOP
+
+- name: 81st EAGE Conference and Exhibition
+  year: 2019
+  id: eagece19
+  link: https://events.eage.org/2019/EAGE%20Annual%202019
+  deadline: "2019-01-15 23:59:59"
+  timezone: Etc/GMT+1
+  date: June 3-6, 2019
+  place: London, UK
+  sub: GSCI
 
 - name: International Petroleum Technology Conference (IPTC)
   year: 2019
@@ -20,27 +41,7 @@
   place: Beijing, China
   sub: PE
 
-- name: AGU Fall Meeting 2019
-  year: 2019
-  id: agufallmtg19
-  link: https://fallmeeting.agu.org/2017/
-  deadline: "2018-08-01 23:59:59"
-  timezone: Etc/GMT-6
-  date: December 11-15, 2018
-  place: New Orleans, Louisiana, USA
-  sub: GEOP
-
-- name: 81st EAGE Conference and Exhibition 2019
-  year: 2019
-  id: eagece19
-  link: https://events.eage.org/2019/EAGE%20Annual%202019
-  deadline: "2019-01-15 23:59:59"
-  timezone: Etc/GMT+1
-  date: June 3-6, 2019
-  place: London, UK
-  sub: GSCI
-
-- name: AAPG Annual Meeting and Convention 2019
+- name: AAPG Annual Meeting and Convention
   year: 2019
   id: aapgace19
   link: https://ace.aapg.org/2019/
