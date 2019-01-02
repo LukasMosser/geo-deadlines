@@ -20,6 +20,16 @@
   place: San Francisco, California, USA
   sub: GEOP
 
+- name: Second EAGE Workshop on Deepwater Exploration in Mexico Knowledge transfer and collaboration from shelf to deepwater
+  year: 2019
+  id: eagedeepwater19
+  link: https://events.eage.org/en/2019/second-workshop-on-deepwater-exploration
+  deadline: "2019-02-25 23:59:59"
+  timezone: Etc/GMT+0
+  date: April 24-26, 2019
+  place: Cancun, Mexico
+  sub: GSCI
+
 - name: 81st EAGE Conference and Exhibition
   year: 2019
   id: eagece19
